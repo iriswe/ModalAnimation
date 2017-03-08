@@ -15,6 +15,16 @@
 		C31F01A91E6BE8D400460E34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C31F01A71E6BE8D400460E34 /* LaunchScreen.storyboard */; };
 		C31F01B41E6BE8D400460E34 /* PushPopPresentDismissAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01B31E6BE8D400460E34 /* PushPopPresentDismissAnimationTests.m */; };
 		C31F01BF1E6BE8D400460E34 /* PushPopPresentDismissAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01BE1E6BE8D400460E34 /* PushPopPresentDismissAnimationUITests.m */; };
+		C31F01D81E6D240400460E34 /* hero.png in Resources */ = {isa = PBXBuildFile; fileRef = C31F01D71E6D240400460E34 /* hero.png */; };
+		C31F01E11E6E82F600460E34 /* InteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01DB1E6E82F600460E34 /* InteractiveTransition.m */; };
+		C31F01E21E6E82F600460E34 /* PresentOneTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01DE1E6E82F600460E34 /* PresentOneTransition.m */; };
+		C31F01E31E6E82F600460E34 /* PresentedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01E01E6E82F600460E34 /* PresentedViewController.m */; };
+		C31F01E61E6E836A00460E34 /* PresentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01E51E6E836A00460E34 /* PresentViewController.m */; };
+		C31F01EA1E6FBFA900460E34 /* CircleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01E91E6FBFA900460E34 /* CircleViewController.m */; };
+		C31F01ED1E6FBFB800460E34 /* CircledViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01EC1E6FBFB800460E34 /* CircledViewController.m */; };
+		C31F01F71E6FC69000460E34 /* timg3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C31F01F41E6FC69000460E34 /* timg3.jpg */; };
+		C31F01FC1E6FC78400460E34 /* CircleSpreadTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = C31F01FB1E6FC78400460E34 /* CircleSpreadTransition.m */; };
+		C31F01FE1E6FDD1D00460E34 /* timg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C31F01FD1E6FDD1D00460E34 /* timg.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,23 @@
 		C31F01BA1E6BE8D400460E34 /* PushPopPresentDismissAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PushPopPresentDismissAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C31F01BE1E6BE8D400460E34 /* PushPopPresentDismissAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PushPopPresentDismissAnimationUITests.m; sourceTree = "<group>"; };
 		C31F01C01E6BE8D400460E34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C31F01D71E6D240400460E34 /* hero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero.png; sourceTree = "<group>"; };
+		C31F01DA1E6E82F600460E34 /* InteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InteractiveTransition.h; sourceTree = "<group>"; };
+		C31F01DB1E6E82F600460E34 /* InteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InteractiveTransition.m; sourceTree = "<group>"; };
+		C31F01DD1E6E82F600460E34 /* PresentOneTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresentOneTransition.h; sourceTree = "<group>"; };
+		C31F01DE1E6E82F600460E34 /* PresentOneTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresentOneTransition.m; sourceTree = "<group>"; };
+		C31F01DF1E6E82F600460E34 /* PresentedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresentedViewController.h; sourceTree = "<group>"; };
+		C31F01E01E6E82F600460E34 /* PresentedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresentedViewController.m; sourceTree = "<group>"; };
+		C31F01E41E6E836A00460E34 /* PresentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresentViewController.h; sourceTree = "<group>"; };
+		C31F01E51E6E836A00460E34 /* PresentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresentViewController.m; sourceTree = "<group>"; };
+		C31F01E81E6FBFA900460E34 /* CircleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleViewController.h; sourceTree = "<group>"; };
+		C31F01E91E6FBFA900460E34 /* CircleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleViewController.m; sourceTree = "<group>"; };
+		C31F01EB1E6FBFB800460E34 /* CircledViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircledViewController.h; sourceTree = "<group>"; };
+		C31F01EC1E6FBFB800460E34 /* CircledViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircledViewController.m; sourceTree = "<group>"; };
+		C31F01F41E6FC69000460E34 /* timg3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg3.jpg; sourceTree = "<group>"; };
+		C31F01FA1E6FC78400460E34 /* CircleSpreadTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleSpreadTransition.h; sourceTree = "<group>"; };
+		C31F01FB1E6FC78400460E34 /* CircleSpreadTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleSpreadTransition.m; sourceTree = "<group>"; };
+		C31F01FD1E6FDD1D00460E34 /* timg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +132,9 @@
 				C31F019D1E6BE8D400460E34 /* AppDelegate.m */,
 				C31F019F1E6BE8D400460E34 /* ViewController.h */,
 				C31F01A01E6BE8D400460E34 /* ViewController.m */,
+				C31F01D91E6E82F600460E34 /* GestureInteractive(手势) */,
+				C31F01DC1E6E82F600460E34 /* PresentDismiss(pop动画) */,
+				C31F01E71E6FBF6A00460E34 /* CiclePresentDismiss(圆形扩散) */,
 				C31F01A21E6BE8D400460E34 /* Main.storyboard */,
 				C31F01A51E6BE8D400460E34 /* Assets.xcassets */,
 				C31F01A71E6BE8D400460E34 /* LaunchScreen.storyboard */,
@@ -117,7 +147,10 @@
 		C31F01991E6BE8D400460E34 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C31F01D71E6D240400460E34 /* hero.png */,
 				C31F019A1E6BE8D400460E34 /* main.m */,
+				C31F01F41E6FC69000460E34 /* timg3.jpg */,
+				C31F01FD1E6FDD1D00460E34 /* timg.jpeg */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -138,6 +171,44 @@
 				C31F01C01E6BE8D400460E34 /* Info.plist */,
 			);
 			path = PushPopPresentDismissAnimationUITests;
+			sourceTree = "<group>";
+		};
+		C31F01D91E6E82F600460E34 /* GestureInteractive(手势) */ = {
+			isa = PBXGroup;
+			children = (
+				C31F01DA1E6E82F600460E34 /* InteractiveTransition.h */,
+				C31F01DB1E6E82F600460E34 /* InteractiveTransition.m */,
+			);
+			name = "GestureInteractive(手势)";
+			path = GestureInteractive;
+			sourceTree = "<group>";
+		};
+		C31F01DC1E6E82F600460E34 /* PresentDismiss(pop动画) */ = {
+			isa = PBXGroup;
+			children = (
+				C31F01DD1E6E82F600460E34 /* PresentOneTransition.h */,
+				C31F01DE1E6E82F600460E34 /* PresentOneTransition.m */,
+				C31F01E41E6E836A00460E34 /* PresentViewController.h */,
+				C31F01E51E6E836A00460E34 /* PresentViewController.m */,
+				C31F01DF1E6E82F600460E34 /* PresentedViewController.h */,
+				C31F01E01E6E82F600460E34 /* PresentedViewController.m */,
+			);
+			name = "PresentDismiss(pop动画)";
+			path = presentDismiss;
+			sourceTree = "<group>";
+		};
+		C31F01E71E6FBF6A00460E34 /* CiclePresentDismiss(圆形扩散) */ = {
+			isa = PBXGroup;
+			children = (
+				C31F01E81E6FBFA900460E34 /* CircleViewController.h */,
+				C31F01E91E6FBFA900460E34 /* CircleViewController.m */,
+				C31F01EB1E6FBFB800460E34 /* CircledViewController.h */,
+				C31F01EC1E6FBFB800460E34 /* CircledViewController.m */,
+				C31F01FA1E6FC78400460E34 /* CircleSpreadTransition.h */,
+				C31F01FB1E6FC78400460E34 /* CircleSpreadTransition.m */,
+			);
+			name = "CiclePresentDismiss(圆形扩散)";
+			path = CiclePresentDismiss;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,8 +318,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C31F01A91E6BE8D400460E34 /* LaunchScreen.storyboard in Resources */,
+				C31F01FE1E6FDD1D00460E34 /* timg.jpeg in Resources */,
+				C31F01D81E6D240400460E34 /* hero.png in Resources */,
 				C31F01A61E6BE8D400460E34 /* Assets.xcassets in Resources */,
 				C31F01A41E6BE8D400460E34 /* Main.storyboard in Resources */,
+				C31F01F71E6FC69000460E34 /* timg3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +348,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				C31F01A11E6BE8D400460E34 /* ViewController.m in Sources */,
+				C31F01FC1E6FC78400460E34 /* CircleSpreadTransition.m in Sources */,
 				C31F019E1E6BE8D400460E34 /* AppDelegate.m in Sources */,
+				C31F01EA1E6FBFA900460E34 /* CircleViewController.m in Sources */,
+				C31F01E31E6E82F600460E34 /* PresentedViewController.m in Sources */,
+				C31F01E21E6E82F600460E34 /* PresentOneTransition.m in Sources */,
+				C31F01E61E6E836A00460E34 /* PresentViewController.m in Sources */,
 				C31F019B1E6BE8D400460E34 /* main.m in Sources */,
+				C31F01E11E6E82F600460E34 /* InteractiveTransition.m in Sources */,
+				C31F01ED1E6FBFB800460E34 /* CircledViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +588,7 @@
 				C31F01C51E6BE8D400460E34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C31F01C61E6BE8D400460E34 /* Build configuration list for PBXNativeTarget "PushPopPresentDismissAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +597,7 @@
 				C31F01C81E6BE8D400460E34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C31F01C91E6BE8D400460E34 /* Build configuration list for PBXNativeTarget "PushPopPresentDismissAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +606,7 @@
 				C31F01CB1E6BE8D400460E34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
